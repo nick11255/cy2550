@@ -12,7 +12,7 @@
 
 ## Puzzle 2 (dCode)
 
-**Plaintext:** NOT ALL TREASURE IS SILVER AND GOLD MATE
+**Plaintext:** NOT ALL TREASURES IS SILVER AND GOLD MATE
 
 **Operation chain:**
 1. Monoalphabetic substitution — decode — key from the linked Crypto.jpeg table (CYBERISFUN ↔ 0123456789), letters to digits
